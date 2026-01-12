@@ -2,8 +2,8 @@ Welcome
 --------|
 ![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
 
-# Zefbot
-Script termux auto view video tiktok terbaru !
+# Bigtech.api full  pump/cdscript
+Script termux auto view video tiktok taweesakpintakam !
 
 <details open><summary><code>Perintah Script?</code></summary>
 
